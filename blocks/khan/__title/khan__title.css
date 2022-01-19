@@ -1,8 +1,8 @@
-.section-title {
+.khan__title{
   font-size: 60px;
   line-height: 1.15;
   font-weight: bold;
-  text-align: center;
   margin: 0;
-  width: 60%;
+  padding: 0;
+
 }
