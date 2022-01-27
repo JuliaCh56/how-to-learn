@@ -6,7 +6,7 @@
   background-repeat: no-repeat;
   background-position-x: left;
   background-position-y: bottom;
-  height: 890px;
+  min-height: 890px;
   margin: 0;
   padding: 0;
   padding-top: 100px;
